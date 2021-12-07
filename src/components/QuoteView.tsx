@@ -14,12 +14,13 @@ const QuoteSection = styled.section`
 `;
 
 const QuoteDiv = styled.div`
-    font-size: 2vw;
+    font-size: 2vmax;
     font-style: italic;
+    margin: 5px;
 `;
 
 const AuthorDiv = styled.div`
-    font-size: 1.4vw;
+    font-size: 1.4vmax;
     padding: 5vh 0 0 35vw;
 `;
 
@@ -37,12 +38,13 @@ const Button = styled.button`
     text-transform: uppercase;
     text-decoration: none;
     background: #60a3bc;
-    padding: 20px;
+    padding: 20px 10px 20px 10px;
     border-radius: 50px;
     display: inline-block;
     border: none;
     transition: all 0.4s ease 0s;
     cursor: pointer;
+    font-size: 1.4vmax;
 
     :hover{
         text-shadow: 0px 0px 6px rgba(255, 255, 255, 1);
