@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React-Quotes/static/css/main.106baaae.chunk.css",
-    "main.js": "/React-Quotes/static/js/main.28224bfd.chunk.js",
-    "main.js.map": "/React-Quotes/static/js/main.28224bfd.chunk.js.map",
+    "main.css": "/React-Quotes/static/css/main.421143ef.chunk.css",
+    "main.js": "/React-Quotes/static/js/main.a2f4f978.chunk.js",
+    "main.js.map": "/React-Quotes/static/js/main.a2f4f978.chunk.js.map",
     "runtime-main.js": "/React-Quotes/static/js/runtime-main.47e6f07c.js",
     "runtime-main.js.map": "/React-Quotes/static/js/runtime-main.47e6f07c.js.map",
-    "static/js/2.e932f2eb.chunk.js": "/React-Quotes/static/js/2.e932f2eb.chunk.js",
-    "static/js/2.e932f2eb.chunk.js.map": "/React-Quotes/static/js/2.e932f2eb.chunk.js.map",
+    "static/js/2.a027230b.chunk.js": "/React-Quotes/static/js/2.a027230b.chunk.js",
+    "static/js/2.a027230b.chunk.js.map": "/React-Quotes/static/js/2.a027230b.chunk.js.map",
     "index.html": "/React-Quotes/index.html",
-    "static/css/main.106baaae.chunk.css.map": "/React-Quotes/static/css/main.106baaae.chunk.css.map",
-    "static/js/2.e932f2eb.chunk.js.LICENSE.txt": "/React-Quotes/static/js/2.e932f2eb.chunk.js.LICENSE.txt"
+    "static/css/main.421143ef.chunk.css.map": "/React-Quotes/static/css/main.421143ef.chunk.css.map",
+    "static/js/2.a027230b.chunk.js.LICENSE.txt": "/React-Quotes/static/js/2.a027230b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.47e6f07c.js",
-    "static/js/2.e932f2eb.chunk.js",
-    "static/css/main.106baaae.chunk.css",
-    "static/js/main.28224bfd.chunk.js"
+    "static/js/2.a027230b.chunk.js",
+    "static/css/main.421143ef.chunk.css",
+    "static/js/main.a2f4f978.chunk.js"
   ]
 }
